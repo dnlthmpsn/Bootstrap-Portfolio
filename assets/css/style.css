@@ -1,12 +1,16 @@
  body{
      background-image: url(../images/wavy-dots.png);
+     
 
  }
 
- .col-10 {
+ .center-block{
      background: #999;
      margin-top: 50px;
+     margin-left:auto;
+     margin-right:auto;
      padding: 15px;
+     margin-bottom:100px;
  }
 
 .navbar{
@@ -16,3 +20,10 @@
 p{
     margin: 15px;
 }
+
+footer {
+    height: 50px;
+    text-align:center;
+    line-height: 50px;
+}
+
