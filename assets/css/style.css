@@ -1,4 +1,18 @@
  body{
-     background-color: gray;
+     background-image: url(../images/wavy-dots.png);
 
  }
+
+ .col-10 {
+     background: #999;
+     margin-top: 50px;
+     padding: 15px;
+ }
+
+.navbar{
+    background: rgb(40, 130, 247);
+}
+
+p{
+    margin: 15px;
+}
